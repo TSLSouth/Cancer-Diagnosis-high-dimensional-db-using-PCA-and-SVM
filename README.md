@@ -1,6 +1,9 @@
 # **Cancer Diagnosis Prediction** 
-## _(high dimensional db using PCA - Principal Component Analysis)_
+### _- high dimensional db_
+### _- using PCA - Principal Component Analysis_
+### _- and modeling with SVM - Support Vector Machine_
 
+<br>
 Let´s take just 2 principal components in a data set with 30 attributes (high dimensional) to try to predict breast cancer.
 
 Before do this, we'll need to scale our data so that each feature has a single unit variance.
